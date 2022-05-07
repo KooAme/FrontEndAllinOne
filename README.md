@@ -2,6 +2,7 @@
 
 - 私が勉強したことと考えを書いたことだから、他の考えを持った方もいると思います。
   後で、github ブログに整理する予定です。
+  - modern JavaScript Deep Dive の本で勉強しました。
 
 ## What is Frontend job
 
@@ -33,10 +34,3 @@
 ### 2022 FrontEnd RoadMap
 
 - https://github.com/Z8264/frontend-developer-roadmap
-
-ー
-
-## HTML 5
-
-- HyperText Markup Language
-  - ウェブページの内容と仕組みを担当。
